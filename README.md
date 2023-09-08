@@ -1,6 +1,14 @@
 # shooping_cart
+#CONCEPTS
+1. Products list
+1. Add products to cart
+2. Update cart
+3. Delete product from cart
+4. Check if product has already added to cart or not
+5. Calculating the total price for the products we have added and updating prices if we update or delete products, etc.
+   GitRepo: 
+![shopping_cart](https://github.com/iabdulwahab7/flutter_shopping_cart/assets/76598467/28d56b9c-4a67-4686-9919-38e7a03683c6)
 
-A new Flutter project.
 
 ## Getting Started
 
