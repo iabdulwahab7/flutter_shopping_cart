@@ -1,5 +1,6 @@
 # shooping_cart
 #CONCEPTS
+0. Splash Screen
 1. Products list
 1. Add products to cart
 2. Update cart
